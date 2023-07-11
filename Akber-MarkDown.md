@@ -19,9 +19,9 @@ https://github.com/akber360/git-training-qa.git
 
 *"All progress takes place outside the comfort zone."*
 
-
+<details>
 # GYM TIPS 101!
-<summary><details></summary>
+<summary>GYM </summary>
 1. Keep Workouts Under 2 Hour
 2. Put Your Phone on DO NOT DISTURB Mode
 3. Stay Off Social Media

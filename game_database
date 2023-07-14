@@ -1,0 +1,14 @@
+Database for Game shop
+
+
+
+
+	cust_id		Order_id	transatcion_id	cust_address	cust_login	cust_pwd		
+
+
+	Product_name	stock_id 	price_id	description	category_id		
+
+	
+
+
+

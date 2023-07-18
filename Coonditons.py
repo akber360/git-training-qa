@@ -16,3 +16,10 @@ elif 65<= mark <=85:
     print("pass")
 else:
     print ("fail")
+    
+if mark >85:
+    print("Distinction")
+if 65<= mark <=85:
+    print("pass")
+else:
+    print ("fail")77

@@ -19,5 +19,3 @@ exam = int(input("Please enter your final exam score "))
 workout(username,homework,assesment,exam)
 
 print (workout(username, homework,assesment,exam))
-
-

@@ -1,9 +1,9 @@
 def five(inputnum):
-    if inputnum == 0:
-        return 1
-    else:
+    if inputnum > 0:
         return inputnum * five(inputnum - 1)
-
+    else: 
+        inputnum == 0
+    return 1
 
 
 

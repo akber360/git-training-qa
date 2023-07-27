@@ -1,6 +1,6 @@
 import pytest
 import squares
-
+#adasdasfggfgf
 def test_squares():
     assert squares.list_of_squares(2) == {1: 1, 2: 4}
     assert squares.list_of_squares(4) == {1: 1, 2: 4, 3: 9, 4: 16}

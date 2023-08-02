@@ -1,0 +1,6 @@
+p::first-line{color: blue;}
+p::first-letter{color: red;text-size-adjust: "xx-large";}
+p::before{content: "This is before the text -- ";}
+p::after{content: "This is after the text -- ";}
+p.highlight:hover{background-color: green;}
+input:active{background-color: lightblue;}

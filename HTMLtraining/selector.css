@@ -1,0 +1,7 @@
+em{color: blue;}
+ article h1 {color: red;}
+article > p {color: rgb(186, 255, 173);} 
+#ABC ~ * {color: purple;}
+
+
+.hover:hover{color: aqua;}

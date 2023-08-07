@@ -1,0 +1,283 @@
+[33mcommit 2e486c6557cf30c253e1554e983ff17be98c751e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Tue Aug 1 14:13:30 2023 +0100
+
+    pushing some html file from day 1 and 2
+
+[33mcommit 5335d054ec34995e3073f727af5090ba4bac3670[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Mon Jul 31 15:58:41 2023 +0100
+
+    Day 1 commits
+
+[33mcommit 246227aa1365dbd43128731a9cacd6543a44f237[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Mon Jul 31 11:40:45 2023 +0100
+
+    changed from p1 to h1 as we needed heading
+
+[33mcommit 6ffad6ee9011c663c73e5baf4768ee47bec38f2c[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Mon Jul 31 11:34:14 2023 +0100
+
+    previous commits
+
+[33mcommit eb92ef1ebb9fde471a8e506fed583e3e86ef2ec5[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Mon Jul 31 11:34:00 2023 +0100
+
+    day one
+
+[33mcommit e1f114fafa7a1f422f8462e0c9c7dac1947a6001[m
+Merge: 9c8f6fa dac4667
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Thu Jul 27 16:33:23 2023 +0100
+
+    Merge branch 'main' of https://github.com/akber360/git-training-qa
+
+[33mcommit 9c8f6fa09efb62a6bc2f0f7c12fe9f1f8914e343[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Thu Jul 27 16:33:08 2023 +0100
+
+    adding file functions
+
+[33mcommit dac4667de04fa71ed22169465c378df170f6d9f9[m
+Author: akber360 <139133081+akber360@users.noreply.github.com>
+Date:   Thu Jul 27 16:30:24 2023 +0100
+
+    Update test_squares.py
+
+[33mcommit 34d84906be85834e6252e48f75ce8bc5d19a039a[m
+Author: akber360 <139133081+akber360@users.noreply.github.com>
+Date:   Thu Jul 27 16:22:43 2023 +0100
+
+    Update test_squares.py
+
+[33mcommit ad0871cee91cfea204ed7417c02cc455b82daca9[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 26 22:12:31 2023 +0100
+
+    list
+
+[33mcommit ef8863b5dc98c335b9ee44a3f50fea02e9dc7f85[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 26 22:12:28 2023 +0100
+
+    List lessons
+
+[33mcommit e466abac07ca299e4db43936b68c1c16a3de688f[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 26 22:11:34 2023 +0100
+
+    learning rules of slicing
+
+[33mcommit 103e2c201900900873be93e93122718fd12644ea[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 26 22:11:23 2023 +0100
+
+    Learning more dictionary rules
+
+[33mcommit b0ccb0a49615d52b6caafd467c7088a869eced5e[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 26 16:24:37 2023 +0100
+
+    learing all list commands
+
+[33mcommit e16d7245db81edc198df5811979bb0a98948c873[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 26 12:36:46 2023 +0100
+
+    string slices
+
+[33mcommit 46e0c76a067d7e352924c9331af9a1a977e36666[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 26 12:36:38 2023 +0100
+
+    two ways to slice string
+
+[33mcommit a71cc3fbe6a334fb43df34d8fa80239f0ee7edc2[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Tue Jul 25 15:35:07 2023 +0100
+
+    see if it could work with inpputnum == 0 not at top
+
+[33mcommit 927d40d66332fe8d2768158f1f3fd79f5f653e97[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Tue Jul 25 15:25:58 2023 +0100
+
+    Q5 completed
+
+[33mcommit c7e4bc2954e8351dbe17c56c8168ed0697d2078c[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Tue Jul 25 12:36:33 2023 +0100
+
+    Q4 done
+
+[33mcommit 2cb9e1bf277d05cf27643b1bc5466991809ed697[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Tue Jul 25 11:40:14 2023 +0100
+
+    Q3 done
+
+[33mcommit 92535269139f5490bdac39b939ae59facefe4dcf[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Tue Jul 25 10:09:05 2023 +0100
+
+    Q2 done
+
+[33mcommit 7d80b4c95b5defb6c5fec14654fa2c737e61b611[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Tue Jul 25 09:52:26 2023 +0100
+
+    q1 answered
+
+[33mcommit d6edb48835ccdb9edceec259c4c75aedd068f116[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Tue Jul 25 08:59:37 2023 +0100
+
+    gui text file
+
+[33mcommit 0f1dd25bb2ef4b7b515a6ae640ceac40b95055b0[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Tue Jul 25 08:59:18 2023 +0100
+
+    GUI
+
+[33mcommit 54d74aae71199388a10540997f9d3add2c735fad[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Tue Jul 25 08:59:01 2023 +0100
+
+    magic python
+
+[33mcommit 539d0cdcb09f14cf81c959f11bb82eeab6c2b90c[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Mon Jul 24 11:53:42 2023 +0100
+
+    made a new file called students for excercise
+
+[33mcommit 0c260c9ec41b1eb2378a754cafff69b83cf72391[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Fri Jul 21 13:37:24 2023 +0100
+
+    update
+
+[33mcommit 12c3a51e3f67221abbe05b416149ab0ce1841ab7[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Fri Jul 21 12:18:34 2023 +0100
+
+    Added the vowels test and function
+
+[33mcommit 0d99430f19e861d2aa5319b7989fb84c9689f5e2[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Fri Jul 21 11:54:30 2023 +0100
+
+    added the Sqaures test and function file
+
+[33mcommit c93cf1febb1b34ca39dc57c1faeb26d7b16f3f19[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Fri Jul 21 11:48:01 2023 +0100
+
+    the Pytest casessss
+
+[33mcommit 78eeabde4e0098c70ccaabc71e974b6d999786dd[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Thu Jul 20 17:10:00 2023 +0100
+
+    files Tutorial and excerice part 1
+
+[33mcommit ee1b8876a1ae4bdfe411db9e7f3420f528e5a3dd[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Thu Jul 20 15:36:36 2023 +0100
+
+    e commit message for your changes. Lines starting
+
+[33mcommit 07f07ad8b106f1d3a29b168590cc607ea93010cc[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Thu Jul 20 14:31:07 2023 +0100
+
+    ABC methods
+
+[33mcommit 56855420ece34ace1c6e33189481d3d089fdfdc8[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Thu Jul 20 13:35:28 2023 +0100
+
+    re upload
+
+[33mcommit 0e7322d42dd7253e64def87685e2d443f5840115[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Thu Jul 20 13:28:10 2023 +0100
+
+    asasd
+
+[33mcommit 4d53118f1508fdfc21e6546e19680afd2d862277[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Thu Jul 20 12:08:15 2023 +0100
+
+    adding leons LeonLetterExample
+
+[33mcommit 4e32ad70193fbc4225d95991c910004aa7a2474e[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Thu Jul 20 12:03:17 2023 +0100
+
+    move locations
+
+[33mcommit 9074e1898ac7d5221d150345e8bee37cab7022ac[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Thu Jul 20 10:56:50 2023 +0100
+
+    ClassesTutorialExcercise
+
+[33mcommit a767f274e0e55fdf009b629067c28f7fedd10198[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 19 16:30:59 2023 +0100
+
+    online tuturiols
+
+[33mcommit 284bdee5e0537db82b7df400780946971fe70010[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 19 15:31:50 2023 +0100
+
+    q1 added
+
+[33mcommit 97ef21487fa3856627dac5400e65fb4b5d98cffd[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 19 15:02:58 2023 +0100
+
+    sed
+
+[33mcommit 2637ee886bc5da7191cafa5bc78595fbe7d71fe9[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 19 15:02:23 2023 +0100
+
+    debug excerciese 1-4 and tutorial 1-2
+
+[33mcommit 767939058aeec5bc8724c6f6bde08ebf9ef5dbcb[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 19 12:31:37 2023 +0100
+
+    done the dice ecverices
+
+[33mcommit 259a7bc3c8f4612fb4bc399c1fc155fb0b002619[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 19 12:15:32 2023 +0100
+
+    Tuturiol completed and modified
+
+[33mcommit 26203e00d1add5b3cbe02bfd7e40599b8920c8fc[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 19 10:51:11 2023 +0100
+
+    Exam caluclator
+
+[33mcommit ef02217b7a3aaf7b3a07217a71f5056c4a352ea3[m
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Wed Jul 19 00:21:04 2023 +0100
+
+    Python intro excercise
+
+[33mcommit 93baf71b41f0421c767feaf4aaec5b2dd609eb1b[m
+Merge: bdb5dc1 4af7ba5
+Author: Akber Ali <akber360@yahoo.co.uk>
+Date:   Tue Jul 18 17:08:52 2023 +0100
+
+    Merge branch 'main' of https://github.com/akber360/git-training-qa

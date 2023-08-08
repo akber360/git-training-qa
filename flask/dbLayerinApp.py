@@ -1,8 +1,8 @@
 from flask import Flask
 
 app = Flask(__name__)
-
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://user:password@123.45.6.78:3306/mydatabase'
+db = SQLAlchemy(app)
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:password@localhost:3006'
 
 
 

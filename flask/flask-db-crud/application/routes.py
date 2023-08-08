@@ -28,5 +28,5 @@ def delete(id):
     game_to_delete = Games.query.filter_by(id=id).first()
     db.session.delete(game_to_delete)
     db.session.commit()
-    return "game deleted"
+    return f"game deleted ";{game_to_delete}
     
